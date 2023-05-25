@@ -10,6 +10,8 @@ namespace Service
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("klijent je pokrenut");
+            Console.ReadKey();
         }
     }
 }

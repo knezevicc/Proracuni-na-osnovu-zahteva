@@ -1,5 +1,4 @@
 ﻿using Proracuni_na_osnovu_zahteva;
-using Service;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -27,9 +26,12 @@ namespace Client
             dataUpdateTimer.Start();
 
             //delegati
-            ServisZaRacunanje calculationService = new ServisZaRacunanje();
-            calculationService.MinimumConsumptionCalculated += MinimumConsumptionCalculatedHandler;
-            calculationService.MaximumConsumptionCalculated += MaximumConsumptionCalculatedHandler;
+            //servis za računanje ne postoji nigde
+                // ServisZaRacunanje calculationService = new ServisZaRacunanje();
+                //calculationService.MinimumConsumptionCalculated += MinimumConsumptionCalculatedHandler;
+                //calculationService.MaximumConsumptionCalculated += MaximumConsumptionCalculatedHandler;
+            Console.WriteLine("server je pokrenut");
+            Console.ReadKey();
         }
 
         private static void DataUpdateTimerElapsed(object sender, ElapsedEventArgs e)

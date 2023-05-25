@@ -1,0 +1,6 @@
+C:\Users\Luka\Desktop\Proracuni-na-osnovu-zahteva\Proracuni na osnovu zahteva\Common\bin\Debug\Common.dll
+C:\Users\Luka\Desktop\Proracuni-na-osnovu-zahteva\Proracuni na osnovu zahteva\Common\bin\Debug\Common.pdb
+C:\Users\Luka\Desktop\Proracuni-na-osnovu-zahteva\Proracuni na osnovu zahteva\Common\obj\Debug\Common.csproj.AssemblyReference.cache
+C:\Users\Luka\Desktop\Proracuni-na-osnovu-zahteva\Proracuni na osnovu zahteva\Common\obj\Debug\Common.csproj.CoreCompileInputs.cache
+C:\Users\Luka\Desktop\Proracuni-na-osnovu-zahteva\Proracuni na osnovu zahteva\Common\obj\Debug\Common.dll
+C:\Users\Luka\Desktop\Proracuni-na-osnovu-zahteva\Proracuni na osnovu zahteva\Common\obj\Debug\Common.pdb
