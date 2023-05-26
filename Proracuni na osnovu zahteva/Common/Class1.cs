@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Proracuni_na_osnovu_zahteva;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,7 +7,5 @@ using System.Threading.Tasks;
 
 namespace Common
 {
-    internal class Class1
-    {
-    }
+    public delegate float IzracunajDelegat(Load[] loads);
 }

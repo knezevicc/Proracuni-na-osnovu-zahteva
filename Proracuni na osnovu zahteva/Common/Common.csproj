@@ -44,6 +44,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Audit.cs" />
+    <Compile Include="Class1.cs" />
     <Compile Include="IAudit.cs" />
     <Compile Include="IElektricnaEnergija.cs" />
     <Compile Include="ILoad.cs" />
